@@ -1,0 +1,10 @@
+/* EditProject.module.css */
+.editProjectContainer {
+    padding: 2em;
+    border: 1px solid #ccc;
+}
+
+.title {
+    color: #333;
+    font-size: 2em;
+}

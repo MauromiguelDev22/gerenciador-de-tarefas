@@ -1,0 +1,21 @@
+.project_container {
+  padding: 2rem;
+}
+
+.title_container {
+  margin-bottom: 2rem;
+}
+
+.project_list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.project_card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 250px;
+  box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
+}
